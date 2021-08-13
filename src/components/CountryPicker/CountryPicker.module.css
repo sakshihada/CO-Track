@@ -1,0 +1,7 @@
+.formControl {
+    width: 30%;
+    margin-bottom: 30px !important;
+    padding: 150px;
+    background: linear-gradient(46deg, rgb(112, 229, 245), rgb(12, 5, 73));
+    background-size: cover;
+}
